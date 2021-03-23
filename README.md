@@ -13,8 +13,8 @@
 	<ul>
 		<li> PC and Mobiles projects experience</li>
 		<li> Solid understanding of Unity Engine libraries</li>
-    <li> Multiples licensed assets published on [Unity Asset Store](https://assetstore.unity.com/publishers/37008)</li>
-  </ul>
+    		<li> Multiples licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
+  	</ul>
 </ul>
 
 <ul>
@@ -41,12 +41,3 @@
 </ul>
 
 
-- 🔭 I’m currently working on ... Unity Engine
-- 🌱 I’m currently learning ... C, C#, Python!
-- 👯 I’m looking to collaborate on ... Unity Engine projects
-- 🤔 I’m looking for help with ... Procedural Generation
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Portfolio](https://carlosmenezeswix.wixsite.com/portfolio)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I almost became a professional football player.
--->
