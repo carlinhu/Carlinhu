@@ -12,8 +12,16 @@
 <ul>
 	<ul>
 		<li> PC and Mobiles projects experience</li>
+		<li> Good understanding of smart ads systems for mobiles</li>
 		<li> Solid understanding of Unity Engine libraries</li>
-    		<li> Multiples licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
+    		<li> Multiple licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
+		<li> Basic understanding of raw multiplayer code. Non-profit 3D Among Us game under developing for research purposes</li>
+		<li> Unity's Physics System - Intermediate</li>
+		<li> User Interface - Intermediate</li>
+		<li> Custom Unity Editors - Intermediate</li>
+		<li> Shuriken Particle System - Intermediate</li>
+		<li> Built In Shaders - Basic</li>
+		
   	</ul>
 </ul>
 
@@ -24,7 +32,7 @@
 	<ul>
 		<li> SOLID OOP principles and design patterns</li>
 		<li> Working with Unity Engine since 2017</li>
-    <li> Windows Forms applications for personal use</li>
+    		<li> <a href="https://carlosmenezeswix.wixsite.com/portfolio/applications">Windows Forms applications</a> for personal use</li>
   </ul>
 </ul>
 
@@ -37,7 +45,7 @@
 </ul>
 
 <ul>
-  <li>Blender 3D modeling - Intermediate</li>
+  <li><a href="https://carlosmenezeswix.wixsite.com/portfolio/3d-models">Blender 3D Modeling</a> - Intermediate</li>
 </ul>
 
 
