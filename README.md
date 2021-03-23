@@ -54,5 +54,5 @@
 
 [<img align="center" src="Images/Icons/Unity_Logo.png" width = '28x'> Assets Store](https://assetstore.unity.com/publishers/37008) 
 <br>
-[<img align="center" src="Images/Icons/LinkedIn_Logo.png" width = '26x'> LinkedIn](https://www.linkedin.com/in/carlosmconcencio/)
+[<img align="center" src="Images/Icons/Linkedin_Logo.png" width = '26x'> LinkedIn](https://www.linkedin.com/in/carlosmconcencio/)
 
