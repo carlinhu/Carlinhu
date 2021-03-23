@@ -50,5 +50,5 @@
   <li><a href="https://carlosmenezeswix.wixsite.com/portfolio/3d-models">Blender 3D Modeling</a> - Intermediate</li>
 </ul>
 
-<img align="center" src="Images/Icons/Unity_Logo.png" alt= "https://assetstore.unity.com/publishers/37008" width = '32x'> <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
+[Assets Store <img align="center" src="Images/Icons/Unity_Logo.png" width = '32x'>](https://assetstore.unity.com/publishers/37008) 
 
