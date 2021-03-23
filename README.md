@@ -20,8 +20,7 @@
 		<li> User Interface - Intermediate</li>
 		<li> Custom Unity Editors - Intermediate</li>
 		<li> Shuriken Particle System - Intermediate</li>
-		<li> Built In Shaders - Basic</li>
-		
+		<li> Built In Shaders - Basic</li>	
   	</ul>
 </ul>
 
