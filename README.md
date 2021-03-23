@@ -50,5 +50,9 @@
   <li><a href="https://carlosmenezeswix.wixsite.com/portfolio/3d-models">Blender 3D Modeling</a> - Intermediate</li>
 </ul>
 
-[<img align="center" src="Images/Icons/Unity_Logo.png" width = '32x'> Assets Store](https://assetstore.unity.com/publishers/37008) 
+#### Useful links:
+
+[<img align="center" src="Images/Icons/Unity_Logo.png" width = '28x'> Assets Store](https://assetstore.unity.com/publishers/37008) 
+<br>
+[<img align="center" src="Images/Icons/Linkedin_Logo.png" width = '26x'> LinkedIn](https://www.linkedin.com/in/carlosmconcencio/)
 
