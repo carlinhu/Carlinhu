@@ -50,6 +50,10 @@
   <li><a href="https://carlosmenezeswix.wixsite.com/portfolio/3d-models">Blender 3D Modeling</a> - Intermediate</li>
 </ul>
 
+<ul>
+  <li>Substance Painter - Basic</li>
+</ul>
+
 #### Useful links:
 
 [<img align="center" src="Images/Icons/Unity_Logo.png" width = '28x'> Assets Store](https://assetstore.unity.com/publishers/37008) 
