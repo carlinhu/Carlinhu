@@ -47,6 +47,10 @@
 </ul>
 
 <ul>
+  <li>HTML and CSS - Basic</li>
+</ul>
+
+<ul>
   <li><a href="https://carlosmenezeswix.wixsite.com/portfolio/3d-models">Blender 3D Modeling</a> - Intermediate</li>
 </ul>
 
