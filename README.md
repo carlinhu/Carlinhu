@@ -15,10 +15,12 @@
 <ul>
 	<ul>
 		<li> PC and Mobiles personal projects experience</li>
+		<li> 2D and 3D games experience</li>
 		<li> Good understanding of smart ads systems for mobiles</li>
 		<li> Solid understanding of Unity Engine libraries</li>
     		<li> Multiple licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
 		<li> Basic understanding of raw multiplayer code. Non-profit 3D Among Us game under developing for research purposes</li>
+		<li> Unity's Post Processing systems - Advanced</li>
 		<li> Unity's Physics System - Intermediate</li>
 		<li> User Interface - Intermediate</li>
 		<li> Custom Unity Editors - Intermediate</li>
