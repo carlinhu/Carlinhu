@@ -20,12 +20,14 @@
 		<li> Solid understanding of Unity Engine libraries</li>
     		<li> Multiple licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
 		<li> Basic understanding of raw multiplayer code. Non-profit 3D Among Us game under developing for research purposes</li>
+		<li> Shuriken Particle System - Advanced</li>
+		<li> VFX Graph - Intermediate</li>
+		<li> Shader Graph - Intermediate</li>
+		<li> Built In Shaders - Basic</li>
 		<li> Unity's Post Processing systems - Advanced</li>
 		<li> Unity's Physics System - Intermediate</li>
 		<li> User Interface - Intermediate</li>
-		<li> Custom Unity Editors - Intermediate</li>
-		<li> Shuriken Particle System - Intermediate</li>
-		<li> Built In Shaders - Basic</li>	
+		<li> Custom Unity Editors - Intermediate</li>	
   	</ul>
 </ul>
 
