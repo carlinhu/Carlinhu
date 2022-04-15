@@ -4,30 +4,33 @@
 
 <p>My name is Carlos Menezes Concencio, I love games and I got into the world of gaming development around 2017 when I moved away from my hometown to start studying on the other side of the country. In the beginning I was afraid of this world I was discovering under the games that I have always played, I thought it would be too hard, but today I feel like it really changed the way I see every single action in games. Every event, every effect, every animation. Each one of these little things that are part of creating a game makes me want to be a part of it even more.<p/>
 
-#### Need help for any games related charity project? Contact me and I'll do my best to help you!
 #### Temporary and under development [Portfolio](https://carlosmenezeswix.wixsite.com/portfolio) 
 
 <hr>
 
+<h1> Hard Skills </h1>
+	
 <ul>
   <li>Unity Engine - Intermediate</li>
 </ul>
 <ul>
 	<ul>
+		<li> Professional experience with consoles and PC games</li>
 		<li> PC and Mobiles personal projects experience</li>
 		<li> 2D and 3D games experience</li>
-		<li> Good understanding of smart ads systems for mobiles</li>
 		<li> Solid understanding of Unity Engine libraries</li>
+		<li> Basic understanding of Unity Entity Component System</li>
+		<li> Unity's Physics System - Intermediate</li>
+		<li> User Interface - Intermediate</li>
+		<li> Custom Unity Editors - Intermediate</li>
+		<li> Good understanding of smart ads systems for mobiles</li>
     		<li> Multiple licensed assets published on <a href="https://assetstore.unity.com/publishers/37008">Unity Asset Store</a></li>
 		<li> Basic understanding of raw multiplayer code. Non-profit 3D Among Us game under developing for research purposes</li>
 		<li> Shuriken Particle System - Advanced</li>
 		<li> VFX Graph - Intermediate</li>
 		<li> Shader Graph - Intermediate</li>
 		<li> Built In Shaders - Basic</li>
-		<li> Unity's Post Processing systems - Advanced</li>
-		<li> Unity's Physics System - Intermediate</li>
-		<li> User Interface - Intermediate</li>
-		<li> Custom Unity Editors - Intermediate</li>	
+		<li> Unity's Post Processing systems - Advanced</li>	
   	</ul>
 </ul>
 
@@ -60,6 +63,15 @@
 
 <ul>
   <li>Substance Painter - Basic</li>
+</ul>
+</ul>
+<h1> Soft Skills </h1>
+	<ul>
+		<li> <b>Team Work</b> - Experience with large teams and large projects.
+		<li> <b>Communication</b> - I believe that a good communication is the key to get great results on any kind of project.
+		<li> <b>Interested</b> - I'm always looking for knowledge, no matter how much I know about a topic.
+		<li> <b>Organized</b> - I always keep my tasks organized to improve my performance.
+	</ul>
 </ul>
 
 #### Useful links:
