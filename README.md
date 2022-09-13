@@ -35,7 +35,7 @@
 </ul>
 
 <ul>
-  <li>C# Development - Intermediate</li>
+  <li>C# Development - Advanced</li>
 </ul>
 <ul>
 	<ul>
@@ -67,7 +67,7 @@
 </ul>
 <h1> Soft Skills </h1>
 	<ul>
-		<li> <b>Team Work</b> - Experience with large teams and large projects.
+		<li> <b>Team Work</b> - Experience with large teams and AA projects.
 		<li> <b>Communication</b> - I believe that a good communication is the key to get great results on any kind of project.
 		<li> <b>Interested</b> - I'm always looking for knowledge, no matter how much I know about a topic.
 		<li> <b>Organized</b> - I always keep my tasks organized to improve my performance.
